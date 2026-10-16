@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="hiRecorder.vcxproj" Id="eb50861e-c519-4524-9095-8dd0ee95cc84" />
+</Solution>
