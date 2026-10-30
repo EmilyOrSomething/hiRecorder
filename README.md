@@ -12,7 +12,7 @@ These features are not yet supported and might be added in future updates.
 * Multiple monitor support
 * Multiple audio/video input support
 * Advanced audio/video encoding options
-* AI-free code, see [my philosophy]().
+* AI-free code, see [my philosophy](https://github.com/EmilyOrSomething#my-philosophy).
 
 ### Current Status
 ---
